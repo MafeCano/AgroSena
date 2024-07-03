@@ -1,0 +1,67 @@
+
+/* Estilos para la sección "Conocenos Mas" */
+.tituloContactanos {
+    margin-top: 100px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.imagen {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.txt {
+    text-align: center;
+    display: flex;
+    align-items: center;
+
+}
+
+/* Estilos para la sección "Nuestros valores" */
+.tituloContcto {
+    margin-top: 100px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.contenedor2 {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.texto {
+    text-align: center;
+    font-size: 20px;
+}
+.text {
+    display: block;
+    align-content: center;
+}
+
+
+.imagen2 {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+
+.ubi {
+    margin-bottom: 35px;
+}
+
+iframe {
+    width: 80%;
+    height: 500px;
+    margin-bottom: 20%;
+}
+
+.ubicacion{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
